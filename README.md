@@ -30,6 +30,7 @@ Gakkiyomi的博客
 * [“V2rayU”将对您的电脑造成伤害。您应该将它移到废纸篓 的临时解决方案](http://localhost:8080/articles/2023/07/07/1688712500541.html)
 * [【译】特性对比：Redis vs Hazelcast](http://localhost:8080/articles/2023/06/26/1687751087940.html)
 * [六边形架构给我带来了什么](http://localhost:8080/articles/2023/06/17/1686994408825.html)
+* [More](http://localhost:8080)
 
 
 
