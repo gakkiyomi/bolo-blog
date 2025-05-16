@@ -1,4 +1,4 @@
-<p align="center"><img alt="Gakkiyomi的博客" src="https://raw.githubusercontent.com/adlered/bolo-solo/master/pic/bolo-circle.png"></p><h2 align="center">
+<p align="center"><img alt="Gakkiyomi的博客" src="https://file.fishpi.cn/2025/05/gakkiyomi-a0186963.png"></p><h2 align="center">
 Gakkiyomi的博客
 </h2>
 
