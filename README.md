@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
 * [我窥探了一次他人的人生](https://gakkiyomi.blog/articles/2025/05/14/1747217650690.html)
 * [终于，我打通了bolo 博客与摸鱼派](https://gakkiyomi.blog/articles/2025/05/10/1746880638954.html)
 * [2025 年的五一](https://gakkiyomi.blog/articles/2025/05/05/1746450734691.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [arthas 使用教程](https://gakkiyomi.blog/articles/2023/07/21/1689919820060.html)
 * [“V2rayU”将对您的电脑造成伤害。您应该将它移到废纸篓 的临时解决方案](https://gakkiyomi.blog/articles/2023/07/07/1688712500541.html)
 * [【译】特性对比：Redis vs Hazelcast](https://gakkiyomi.blog/articles/2023/06/26/1687751087940.html)
-* [六边形架构给我带来了什么](https://gakkiyomi.blog/articles/2023/06/17/1686994408825.html)
 * [More](https://gakkiyomi.blog)
 
 
