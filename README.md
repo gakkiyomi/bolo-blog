@@ -5,7 +5,7 @@ Gakkiyomi的博客
 <h4 align="center">为往圣继绝学</h4>
 <p align="center"><a title="Gakkiyomi的博客" target="_blank" href="https://github.com/gakkiyomi/bolo-blog"><img src="https://img.shields.io/github/last-commit/gakkiyomi/bolo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/gakkiyomi/bolo-blog"><img src="https://img.shields.io/github/repo-size/gakkiyomi/bolo-blog.svg?style=flat-square"></a>
-<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.6.2 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Bolo Version" target="_blank" href="https://github.com/adlered/bolo-solo"><img src="https://img.shields.io/badge/bolo-v2.6.3 稳定版-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/gakkiyomi/bolo-blog.svg"></a></p>
 
 ### Latest Blog Posts:
