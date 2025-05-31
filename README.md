@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [黑神话悟空艺术展小记](https://gakkiyomi.blog/articles/2025/05/31/1748691385877.html)
 * [菠萝博客v2.6.2 新功能-订阅博主preview](https://gakkiyomi.blog/articles/2025/05/24/1748089282049.html)
 * [我的书单](https://gakkiyomi.blog/books)
 * [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [摸鱼派python客户端2.0.0来了～～～,支持账号多开](https://gakkiyomi.blog/articles/2023/12/03/1701608571858.html)
 * [这波5杀怎么说](https://gakkiyomi.blog/articles/2023/09/07/1694052138860.html)
 * [深圳博物馆一日游](https://gakkiyomi.blog/articles/2023/07/23/1690087692482.html)
-* [arthas 使用教程](https://gakkiyomi.blog/articles/2023/07/21/1689919820060.html)
 * [More](https://gakkiyomi.blog)
 
 
