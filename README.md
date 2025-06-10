@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [《匹诺曹的谎言》游戏DLC测评，依旧类魂尖子生](https://gakkiyomi.blog/articles/2025/06/10/1749549418487.html)
 * [Steam家庭组招人啦！！！！](https://gakkiyomi.blog/articles/2025/06/03/1748922776811.html)
 * [什么是责任链模式？](https://gakkiyomi.blog/articles/2025/06/02/1748855216822.html)
 * [黑神话悟空艺术展小记](https://gakkiyomi.blog/articles/2025/05/31/1748691385877.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [ES ILM策略](https://gakkiyomi.blog/articles/2024/10/30/1730263901140.html)
 * [甜哭，当校园青春偶像剧走进现实](https://gakkiyomi.blog/articles/2024/10/11/1728626641353.html)
 * [G of the year 2023](https://gakkiyomi.blog/summary2023)
-* [摸鱼派python客户端2.0.0来了～～～,支持账号多开](https://gakkiyomi.blog/articles/2023/12/03/1701608571858.html)
 * [More](https://gakkiyomi.blog)
 
 
