@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [2015年已经是十年前了](https://gakkiyomi.blog/articles/2025/06/15/1749989246676.html)
 * [《匹诺曹的谎言》游戏DLC测评，依旧类魂尖子生](https://gakkiyomi.blog/articles/2025/06/10/1749549418487.html)
 * [Steam家庭组招人啦！！！！](https://gakkiyomi.blog/articles/2025/06/03/1748922776811.html)
 * [什么是责任链模式？](https://gakkiyomi.blog/articles/2025/06/02/1748855216822.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [Raft 算法](https://gakkiyomi.blog/articles/2024/10/31/1730357196974.html)
 * [ES ILM策略](https://gakkiyomi.blog/articles/2024/10/30/1730263901140.html)
 * [甜哭，当校园青春偶像剧走进现实](https://gakkiyomi.blog/articles/2024/10/11/1728626641353.html)
-* [G of the year 2023](https://gakkiyomi.blog/summary2023)
 * [More](https://gakkiyomi.blog)
 
 
