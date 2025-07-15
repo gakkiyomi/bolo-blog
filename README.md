@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [ServletContextInitializer](https://gakkiyomi.blog/articles/2025/07/15/1752548212181.html)
 * [SpringBean 的生命周期](https://gakkiyomi.blog/articles/2025/07/07/1751879378671.html)
 * [《情感反诈模拟器》为什么我爱的是何月盈？](https://gakkiyomi.blog/articles/2025/06/23/1750652741988.html)
 * [《剑星》一款8分的换装模拟器](https://gakkiyomi.blog/articles/2025/06/20/1750420857169.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [《三伏》游戏测评，月光蟑螂江郎才尽？](https://gakkiyomi.blog/articles/2025/03/26/1742956490103.html)
 * [《空洞骑士》26 小时通关札记：甲壳之下的灵魂震颤](https://gakkiyomi.blog/articles/2025/03/17/1742199653297.html)
 * [G of the year 2024](https://gakkiyomi.blog/summary2024)
-* [Kafka 元数据管理](https://gakkiyomi.blog/articles/2024/10/31/1730361467797.html)
 * [More](https://gakkiyomi.blog)
 
 
