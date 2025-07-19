@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [什么是形变（Type Variance）？](https://gakkiyomi.blog/articles/2025/07/19/1752897315152.html)
 * [ServletContextInitializer](https://gakkiyomi.blog/articles/2025/07/15/1752548212181.html)
 * [SpringBean 的生命周期](https://gakkiyomi.blog/articles/2025/07/07/1751879378671.html)
 * [《情感反诈模拟器》为什么我爱的是何月盈？](https://gakkiyomi.blog/articles/2025/06/23/1750652741988.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [《无限机兵》游戏测评，国产类魂大学生](https://gakkiyomi.blog/articles/2025/03/30/1743331681769.html)
 * [《三伏》游戏测评，月光蟑螂江郎才尽？](https://gakkiyomi.blog/articles/2025/03/26/1742956490103.html)
 * [《空洞骑士》26 小时通关札记：甲壳之下的灵魂震颤](https://gakkiyomi.blog/articles/2025/03/17/1742199653297.html)
-* [G of the year 2024](https://gakkiyomi.blog/summary2024)
 * [More](https://gakkiyomi.blog)
 
 
