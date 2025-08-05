@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [《明末渊虚之羽》一场大型的魂游Cosplay](https://gakkiyomi.blog/articles/2025/08/03/1754228761094.html)
 * [什么是形变（Type Variance）？](https://gakkiyomi.blog/articles/2025/07/19/1752897315152.html)
 * [ServletContextInitializer](https://gakkiyomi.blog/articles/2025/07/15/1752548212181.html)
 * [SpringBean 的生命周期](https://gakkiyomi.blog/articles/2025/07/07/1751879378671.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [设计一个FASS架构中的云函数运行时](https://gakkiyomi.blog/articles/2025/05/05/1746447839535.html)
 * [《无限机兵》游戏测评，国产类魂大学生](https://gakkiyomi.blog/articles/2025/03/30/1743331681769.html)
 * [《三伏》游戏测评，月光蟑螂江郎才尽？](https://gakkiyomi.blog/articles/2025/03/26/1742956490103.html)
-* [《空洞骑士》26 小时通关札记：甲壳之下的灵魂震颤](https://gakkiyomi.blog/articles/2025/03/17/1742199653297.html)
 * [More](https://gakkiyomi.blog)
 
 
