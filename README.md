@@ -10,6 +10,7 @@ Gakkiyomi的博客
 
 ### Latest Blog Posts:
 
+* [2025年我跟曾经的自己和解了](https://gakkiyomi.blog/summary2025)
 * [当代中国人的矛盾、情绪与裂痕](https://gakkiyomi.blog/articles/2025/12/08/1765127849551.html)
 * [论程序员的本本主义与经验主义](https://gakkiyomi.blog/articles/2025/12/01/1764518758886.html)
 * [47岁出"新手村"的刘邦](https://gakkiyomi.blog/articles/2025/10/12/1760246754028.html)
@@ -29,7 +30,6 @@ Gakkiyomi的博客
 * [我的书单](https://gakkiyomi.blog/books)
 * [菠萝博客 v2.6.1_stable 版本发布！](https://gakkiyomi.blog/articles/2025/05/17/1747451410051.html)
 * [我窥探了一次他人的人生](https://gakkiyomi.blog/articles/2025/05/14/1747217650690.html)
-* [终于，我打通了bolo 博客与摸鱼派](https://gakkiyomi.blog/articles/2025/05/10/1746880638954.html)
 * [More](https://gakkiyomi.blog)
 
 
